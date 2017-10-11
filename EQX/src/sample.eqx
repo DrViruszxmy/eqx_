@@ -1,0 +1,3 @@
+name = "Tom"
+age = 22
+print("NAME:"+name +" AGE:"+age);
